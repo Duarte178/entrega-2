@@ -2,8 +2,8 @@
 
 ## Lista de Integrantes
 - Gabriel Duarte - RM 550185
-- Arthur Barbato - RM 98701
-- Pedro Henrique - RM 98701
+- Arthur Barbato - RM 99535
+- Pedro Henrique - RM 98609
 
 ## Como Executar
 1. Compile e execute:
