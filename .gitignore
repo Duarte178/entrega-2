@@ -1,0 +1,6 @@
+# Maven target
+/target
+
+# H2 files
+/data
+*.mv.db
